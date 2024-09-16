@@ -1,0 +1,5 @@
+folder/filename: instances/scenario1/fully_correlated_sc1/1000
+solution costs: 445 507 437 426 460 528 493 624 424 387 
+average cost: 473.1
+solution times: 0.00933487 0.0096494 0.00994468 0.0101 0.00982769 0.0105251 0.0108922 0.0111707 0.0105521 0.0100688 
+average time: 0.0102066
